@@ -14,7 +14,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
 --- |
-[Kacper Smoliński](https://github.com/kacperleague9.png?size=100)(https://github.com/kacperleague9) |
+[Zeno Rocha](https://github.com/zenorocha) |
+[![Kacper Smoliński](https://github.com/kacperleague9.png?size=100)](https://github.com/kacperleague9) |
+--- |
+[Kacper Smoliński](https://github.com/kacperleague9) |
 
 ## License
 
