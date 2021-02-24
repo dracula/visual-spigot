@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/visualspigot](https://dracula
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 [![Kacper Smoliński](https://github.com/kacperleague9.png?size=100)](https://github.com/kacperleague9) |
-Front-end web developer. |
+--- |
 [Kacper Smoliński](https://github.com/kacperleague9) |
 
 ## License
