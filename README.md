@@ -6,13 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/visualspigot](https://draculatheme.com/x).
-
-1. Open visual spigot.
-2. Enter command `.theme`.
-3. Press a folderr icon next to theme name label.
-4. Unpack dracula theme in opened folder.
-5. Select dracula in theme menu.
+All instructions can be found [here](https://github.com/kacperleague9/visualspigot-dracula/blob/master/INSTALL.md).
 
 ## Team
 
