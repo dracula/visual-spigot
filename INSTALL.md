@@ -14,6 +14,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/visual-spig
 
 1. Open visual spigot.
 2. Enter command .theme.
-3. Press a folderr icon next to theme name label.
+3. Press folder icon next to theme name label.
 5. Unpack dracula theme in opened folder.
 4. Select dracula in theme menu.
