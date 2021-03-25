@@ -6,11 +6,11 @@
 
 ## Install
 
-All instructions can be found [here](https://github.com/kacperleague9/visualspigot-dracula/blob/master/INSTALL.md).
+All instructions can be found at [draculatheme.com/visual-spigot](https://draculatheme.com/visual-spigot).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-spigot/graphs/contributors).
 [![Kacper Smoliński](https://github.com/kacperleague9.png?size=100)](https://github.com/kacperleague9) |
 --- |
 [Kacper Smoliński](https://github.com/kacperleague9) |
