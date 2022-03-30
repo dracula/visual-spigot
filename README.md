@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/visual-spigot](https://dracul
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-spigot/graphs/contributors).
 
-| [![Kacper Smoliński](https://github.com/kacperleague9.png?size=100)](https://github.com/kacperleague9) |
+| [![Kaspian](https://github.com/KaspianDev.png?size=100)](https://github.com/KaspianDev) |
 | ------------------------------------------------------------------------------------------------------ |
-| [Kacper Smoliński](https://github.com/kacperleague9)                                                   |
+| [Kaspian](https://github.com/KaspianDev)                                                   |
 
 ## Community
 
